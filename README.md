@@ -15,4 +15,4 @@ Please refer to our [Wiki](https://github.com/hay12396/ImAliveGuide/wiki) for mo
 ### Links:
 * [Website](https://skeleton20170119054239.azurewebsites.net/)
 * [Forum](http://www.imaliveforum.com)
-* [Youtube Channel](https://www.youtube.com)
+* [Youtube Channel](https://www.youtube.com/channel/UC6d9q04cUU69h5-Foxul-Kw)
