@@ -7,7 +7,7 @@ The following short video series will take you through all the steps of creating
 3. [Assets managment](https://youtu.be/UJ3AGZs-1-Y)
 4. [Categories and phone events](https://youtu.be/SByJnkZn4gI)
 5. [Script templates](https://youtu.be/1quXswoq6OM)
-6. [Publish your script](https://youtu.be/kP7jiLqkhh0)
+6. [Publish your script](https://youtu.be/Ca21dIDpa0g)
 
 
 Please refer to our [Wiki](https://github.com/hay12396/ImAliveGuide/wiki) for more information.
