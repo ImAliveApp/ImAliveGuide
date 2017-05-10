@@ -13,6 +13,6 @@ The following short video series will take you through all the steps of creating
 Please refer to our [Wiki](https://github.com/hay12396/ImAliveGuide/wiki) for more information.
 
 ### Links:
-* [Website](https://skeleton20170119054239.azurewebsites.net/)
+* [Website](https://imaliveweb.com/)
 * [Forum](http://www.imaliveforum.com)
 * [Youtube Channel](https://www.youtube.com/channel/UC6d9q04cUU69h5-Foxul-Kw)
